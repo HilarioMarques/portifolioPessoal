@@ -1,0 +1,4 @@
+Dia 16/07:
+    - Escolhi o Site inspiração: https://www.gillianjack.com/
+    - Criei um layout no canva para ter uma noção de como será
+    - Preparei a estrutura de pastas
