@@ -5,3 +5,8 @@ Dia 16/07:
 
 Dia 22/07
     - Criei o repositório do projeto no github 
+
+Dia 23/07
+    - Comecei a organizar as divs para facilitar o trabalho
+    - Deu pra organizar a página de index e começar a página de sobre
+    - O menu já tem uma estrutura também

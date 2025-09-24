@@ -1,0 +1,46 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+
+.div_container{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+}
+
+.div_conteudoEsquerda{
+    display: flex;
+    flex-direction: column; /*vai empilhar o menu com o conteudo*/
+    flex-grow: 1; /*ocupa o máximo de espaço possivel*/                                  
+}
+
+.menu{
+    background-color: gray;
+    height: 100px; /*altura fixa no topo*/
+}
+
+.conteudo{
+    background-color: orange;
+    flex-grow: 1;
+}
+
+.imagemLateral{
+    background-color: blue;
+    width: 450px; /*largura fixa no lado direito*/
+}
+
+.div_Item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+}
+
+ul, li, a{
+    display: inline;
+    color: black;
+}
